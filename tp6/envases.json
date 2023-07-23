@@ -1,0 +1,145 @@
+{
+    "contenedores": [
+        {
+            "tipo": "Grande",
+            "envases": [
+                {
+                    "tipo": "Tipo1",
+                    "liquidos": [
+                        {
+                            "tipo": "alimento",
+                            "text": "Aceite"
+                        },
+                        {
+                            "tipo": "alimento",
+                            "text": "Agua"
+                        },
+                        {
+                            "tipo": "alimento",
+                            "text": "Leche"
+                        },
+                        {
+                            "tipo": "alimento",
+                            "text": "Vinagre"
+                        }
+                    ]
+                },
+                {
+                    "tipo": "Tipo2",
+                    "liquidos": [
+                        {
+                            "tipo": "corrosivo",
+                            "text": "Aguarrás"
+                        },
+                        {
+                            "tipo": "corrosivo",
+                            "text": "Alcohol"
+                        },
+                        {
+                            "tipo": "corrosivo",
+                            "text": "Jabón"
+                        },
+                        {
+                            "tipo": "corrosivo",
+                            "text": "Lejía"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tipo": "Mediano",
+            "envases": [
+                {
+                    "tipo": "Tipo1",
+                    "liquidos": [
+                        {
+                            "tipo": "alimento",
+                            "text": "Aceite"
+                        },
+                        {
+                            "tipo": "alimento",
+                            "text": "Agua"
+                        },
+                        {
+                            "tipo": "alimento",
+                            "text": "Leche"
+                        },
+                        {
+                            "tipo": "alimento",
+                            "text": "Vinagre"
+                        }
+                    ]
+                },
+                {
+                    "tipo": "Tipo2",
+                    "liquidos": [
+                        {
+                            "tipo": "corrosivo",
+                            "text": "Aguarrás"
+                        },
+                        {
+                            "tipo": "corrosivo",
+                            "text": "Alcohol"
+                        },
+                        {
+                            "tipo": "corrosivo",
+                            "text": "Jabón"
+                        },
+                        {
+                            "tipo": "corrosivo",
+                            "text": "Lejía"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tipo": "Pequeño",
+            "envases": [
+                {
+                    "tipo": "Tipo1",
+                    "liquidos": [
+                        {
+                            "tipo": "alimento",
+                            "text": "Aceite"
+                        },
+                        {
+                            "tipo": "alimento",
+                            "text": "Agua"
+                        },
+                        {
+                            "tipo": "alimento",
+                            "text": "Leche"
+                        },
+                        {
+                            "tipo": "alimento",
+                            "text": "Vinagre"
+                        }
+                    ]
+                },
+                {
+                    "tipo": "Tipo2",
+                    "liquidos": [
+                        {
+                            "tipo": "corrosivo",
+                            "text": "Aguarrás"
+                        },
+                        {
+                            "tipo": "corrosivo",
+                            "text": "Alcohol"
+                        },
+                        {
+                            "tipo": "corrosivo",
+                            "text": "Jabón"
+                        },
+                        {
+                            "tipo": "corrosivo",
+                            "text": "Lejía"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
