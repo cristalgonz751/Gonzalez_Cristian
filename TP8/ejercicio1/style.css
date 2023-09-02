@@ -1,0 +1,15 @@
+
+
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.bg-secondary2{
+    background-color: #52585e;
+}
+.bg-secondary3{
+    background-color:#495057  ;
+}
